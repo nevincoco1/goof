@@ -1,4 +1,4 @@
-name: Nevin Snyk Action
+name: Nevins Snyk Action
 on: push
 jobs:
   security:
